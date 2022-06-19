@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+  }
+  
+  html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+  }
+  
+  table{
+    border-collapse: collapse;
+  
+  }
+  th, td{
+    text-align: center;
+    border:1px solid darkgray;
+    padding: 5px;
+  }
+  .hello{
+    font-size: 2rem;
+    line-height: 32px;
+  }
+  #smm{
+    font-size: 200%;
+  }
+
+  
+body{
+    color: rgb(227, 217, 217);
+    background-color: rgb(0, 0, 0);
+    text-align: left;
+  }
